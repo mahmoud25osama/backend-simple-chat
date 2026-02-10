@@ -13,6 +13,7 @@ export const initializeSocket = (server) => {
                 'http://localhost:5173',
                 'http://127.0.0.1:5173',
                 'http://localhost:3000',
+                'https://link2up.vercel.app',
             ],
             credentials: true,
             methods: ['GET', 'POST'],
